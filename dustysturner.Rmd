@@ -1,0 +1,38 @@
+---
+title: "Dusty Turner"
+image: "dusty_nyr.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/dusty-turner-34a148112/"
+  - label: Twitter
+    url: "https://twitter.com/dtdusty"
+  - label: GitHub
+    url: "https://github.com/dusty-turner"
+  - label: Email
+    url: "mailto:dusty.s.turner@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Dusty Turner is an Army Operations Research Systems Analyst working as a Data Scientist for the Center for Army Analysis at FT Belvoir, VA.  He's previously served as an Assistant Professor in the Department of Mathematics at the United States Military Academy at West Point, NY, as an Engineer Company Commander in White Sands Missile Range, NM, and Platoon Leader and staff officer in the 65th Engineer Battalion in Schofield Barracks, HI.  He is married to his wife, Jill, for 10 years and they have two children; Cal (8) and Reese (6).
+
+## Education
+
+**The Ohio Stats University** | Columbus, OH
+
+M.S. Integrated Systems Engineering | August 20014 - May 2016
+Grad Minor Applied Statistics
+
+**Missouri University of Science and Technology** | Rolla, MO
+
+M.S. in Engineering Management | January 2012 - December 2012
+
+**The United States Military Academy at West Point** | West Point, NY
+
+B.S. in Operations Research | June 2003 - May 2007
+
+## Experience
+
+**United States Army** | Engineer Officer and Operations Research Systems Analyst | May 2007 - Present
