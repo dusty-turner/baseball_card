@@ -2,6 +2,8 @@
 title: "Dusty Turner"
 image: "dusty_nyr.jpg"
 links:
+  - label: Blog
+    url: "https://dustysturner.com/"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/dusty-turner-34a148112/"
   - label: Twitter
